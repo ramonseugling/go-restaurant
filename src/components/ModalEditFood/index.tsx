@@ -10,6 +10,7 @@ interface EditFoodProps {
   name: string;
   price: string;
   description: string;
+  available: boolean;
 }
 
 interface ModalEditFoodProps {

@@ -2,19 +2,11 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho especial",
+      "name": "Ao molho especials",
       "description": "Macarrão ao molho branco, fughi.",
-      "price": "29.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
-      "image": "fdfsdfs",
-      "name": "sdfsdf",
-      "price": "sdfsdf",
-      "description": "sdfsdfs",
+      "price": "23.90",
       "available": true,
-      "id": 2
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     }
   ]
 }
